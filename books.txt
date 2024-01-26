@@ -1,0 +1,18 @@
+FictionBook
+Title: Harry Potter and the Philosopher's Stone
+Author: J.K. Rowling
+Title: Harry Potter and the Philosopher's Stone
+Author: J.K. Rowling
+-----
+NonFictionBook
+Title: Elon Musk
+Author: Walter IsaacsonWalter Isaacson.
+Title: Elon Musk
+Author: Walter IsaacsonWalter Isaacson.
+-----
+FictionBook
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald.
+Title: The Great Gatsby
+Author: F. Scott Fitzgerald.
+-----
